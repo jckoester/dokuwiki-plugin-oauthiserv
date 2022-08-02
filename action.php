@@ -1,11 +1,10 @@
 <?php
 
 use dokuwiki\plugin\oauth\Adapter;
-#use dokuwiki\plugin\oauthgeneric\DotAccess;
 use dokuwiki\plugin\oauthiserv\IServ;
 
 /**
- * Service Implementation for oAuth Doorkeeper authentication
+ * Service Implementation for oAuth IServ authentication
  */
 class action_plugin_oauthiserv extends Adapter
 {
