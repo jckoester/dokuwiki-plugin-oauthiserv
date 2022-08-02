@@ -1,0 +1,7 @@
+base   oauthiserv
+author Jan Köster
+email  jan.koester@gymnasium-ditzingen.de
+date   2022-08-02
+name   oauth IServ Service
+desc   IServ Service for use with the oAuth Plugin
+url    http://www.dokuwiki.org/plugin:oauthiserv
